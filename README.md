@@ -1,266 +1,63 @@
 # Hi, I'm Someshwari 👋
 
-### Full-Stack Developer · AI Engineer · SaaS Builder
+Full-stack developer with 5+ years of experience. I run [TechSonance InfoTech](https://techsonance.co.in/), where we build web apps, mobile apps, SaaS products and AI features for clients.
 
-I build production-ready software products from concept to deployment, across **web, mobile, SaaS, AI, and custom business applications**.
+I like owning a product end to end: database, API, frontend, payments, deployment, and the debugging that comes after launch. Lately that includes a lot of AI work, mostly RAG and document processing.
 
-I work on **web applications, mobile apps, SaaS platforms, AI-powered products, internal tools, and backend systems**, turning ideas and business requirements into working software.
-
-With 5+ years of development experience, I've worked across the complete product lifecycle, from **architecture and database design to frontend and mobile development, APIs, AI workflows, payments, integrations, deployment, and production debugging**.
-
-
-🌐 **[Portfolio](https://someshwari.techsonance.co.in/)**
-🏢 **[TechSonance InfoTech](https://techsonance.co.in/)**
-💼 **[TechSonance on LinkedIn](https://www.linkedin.com/company/techsonance-infotech/)**
-📧 **[admin@techsonance.co.in](mailto:admin@techsonance.co.in)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://someshwari.techsonance.co.in/)
+[![TechSonance](https://img.shields.io/badge/TechSonance-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/techsonance-infotech/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:admin@techsonance.co.in)
 
 ---
 
-## What I Build
+## Stack
 
-* 🚀 SaaS platforms and MVPs
-* 🤖 AI-powered applications and RAG systems
-* 📊 ERP, CRM, and internal business platforms
-* 🏗️ Scalable REST APIs and backend systems
-* 💳 Payment and subscription systems
-* 📱 Web and mobile applications
-* 🔄 Automation and third-party integrations
-* 🗄️ Data-heavy applications and business workflows
+**Web** &nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Backend and data** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-## Tech Stack
+**AI** &nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Frontend
-
-
-
-
-\
-
-### Backend
-
-
-\
-
-### Databases
-
-
-
-
-\
-
-### AI / LLM
-
-
-
-\
-
-* LLM integrations
-* Retrieval-Augmented Generation
-* Vector search
-* AI assistants
-* Document processing
-* OCR and data extraction
-* AI-powered workflows
-* Prompt engineering
-* OpenAI, Claude, and Groq integrations
-* pgvector
-
-### Mobile
-
-\
-
-### Tools & Infrastructure
-
-
-
-
-\
-
-Also: **REST APIs · WebSockets · Stripe · Razorpay · Firebase · CI/CD · Sentry**
+**Mobile and infra** &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
-# Selected Work
+## Things I've built
 
-## 🚀 Projects
+| Project | What it is |
+|---|---|
+| **Zion** | Flutter community and events app for young people in the UAE. Ticketing, chat, push notifications, wallet, buyer and seller roles |
+| **[Custom RAG Assistant](https://github.com/someshwari-rudra/custom-rag-modal)** | Ask questions about your PDFs and get answers with citations |
+| **AccuNest** | Accounting and inventory software that reads invoices with OCR and matches products |
+| **FreightFlow** | Transport management with invoicing, LR and POD, payment tracking and reconciliation |
+| **InstaSDR.ai** | Lead management, email campaigns and LinkedIn outreach automation |
+| **Marketplace** | Multi-supplier store with one checkout and split payments |
+| **GreenPraxis** | Soil and environmental data dashboards for agriculture |
 
-### Zion 🇦🇪
+## On the AI side
 
-A Flutter-based community and event platform built for young communities in the UAE.
-
-* Community-based social features
-* Event discovery and ticketing
-* Multiple ticket tiers and event dates
-* Buyer and seller roles
-* Real-time chat
-* Push notifications
-* Media uploads
-* Wallet and payment flows
-* Offline caching
-* Firebase analytics and crash monitoring
-
-**Stack:** Flutter · Dart · Riverpod · Firebase · REST APIs · Hive · Isar
+RAG over documents, OCR and invoice extraction, vector search, prompt injection protection, and automation for WhatsApp, email and LinkedIn. Mostly with OpenAI, Claude and Groq.
 
 ---
 
-### Custom RAG Assistant
-
-[View Repository](https://github.com/someshwari-rudra/custom-rag-modal)
-
-A document-based assistant that lets users ask questions about uploaded PDFs and get answers with citations and tables.
-
-**Stack:** Next.js · TypeScript · LLM APIs · Vector Search · RAG
-
----
-
-### AccuNest
-
-Accounting and inventory software with invoice processing and automation.
-
-* OCR and invoice data extraction
-* Product matching
-* Inventory management
-* Reorder logic
-* Accounting workflows
-
-**Stack:** React · Node.js · MongoDB · AI integrations
-
----
-
-### FreightFlow
-
-A transport and logistics management platform built around real-world business workflows.
-
-* Shipment and load management
-* LR and POD management
-* Multi-line invoicing
-* Payment tracking
-* Deductions and reconciliation
-* Inventory and balance tracking
-
-**Stack:** React · Node.js · PostgreSQL · REST APIs
-
----
-
-### InstaSDR.ai
-
-A sales development platform for managing leads and outreach.
-
-* Lead management
-* Email campaigns
-* LinkedIn automation
-* Campaign workflows
-* Lead tracking
-
-**Stack:** React · Node.js · APIs · Database systems
-
----
-
-### Multi-Supplier Marketplace
-
-An e-commerce marketplace where customers can buy from multiple suppliers through a single checkout.
-
-* Multi-supplier products
-* Unified cart
-* Supplier order management
-* Stripe payments
-* Split payments
-
-**Stack:** Next.js · Node.js · PostgreSQL · Stripe
-
----
-
-### GreenPraxis
-
-An agriculture and sustainability platform focused on soil and environmental data.
-
-* Soil monitoring
-* Environmental data
-* Dashboards
-* Data visualization
-* Agriculture workflows
-
-**Stack:** React · Node.js · PostgreSQL · Data APIs
-
----
-
-# Engineering Experience
-
-### Architecture
-
-I work across the complete application stack:
-
-```text
-Frontend
-   ↓
-API / Business Logic
-   ↓
-Database
-   ↓
-Integrations / AI / Payments
-   ↓
-Deployment & Monitoring
-```
-
-My day-to-day work includes:
-
-* Designing application architecture
-* Building REST APIs and backend services
-* Designing relational and NoSQL databases
-* Building reusable frontend systems
-* Integrating third-party APIs
-* Implementing authentication and role-based access
-* Building payment workflows
-* Connecting AI and LLM services
-* Working with real-time features and WebSockets
-* Deploying and monitoring production applications
-* Debugging performance and production issues
-
----
-
-## AI & Automation
-
-I've worked with AI where it solves an actual product problem, including:
-
-* RAG applications
-* PDF and document understanding
-* OCR and invoice extraction
-* Product and catalog matching
-* AI assistants
-* Vector search
-* LLM-based workflows
-* WhatsApp automation
-* LinkedIn automation
-* Email automation
-* Structured AI responses
-* Prompt injection protection
-
-I mainly work with **OpenAI, Claude, Groq, LangChain, Pinecone, and pgvector**.
-
----
-
-## 🏢 TechSonance InfoTech
-
-I run **[TechSonance InfoTech](https://techsonance.co.in/)**, a software development agency focused on building custom software, SaaS products, mobile applications, AI integrations, and business automation.
-
-We work with businesses from the early product stage through development, deployment, and ongoing improvements.
-
-**Website:** [techsonance.co.in](https://techsonance.co.in/)
-
----
-
-## 📫 Get in Touch
-
-If you're building a product, need help with an existing application, or have an interesting technical problem to solve, feel free to reach out.
-
-* 📧 **Email:** [admin@techsonance.co.in](mailto:admin@techsonance.co.in)
-* 🌐 **Portfolio:** [someshwari.techsonance.co.in](https://someshwari.techsonance.co.in/)
-* 💻 **GitHub:** [@someshwari-rudra](https://github.com/someshwari-rudra)
-* 🏢 **TechSonance:** [techsonance.co.in](https://techsonance.co.in/)
-* 💼 **LinkedIn:** [TechSonance InfoTech](https://www.linkedin.com/company/techsonance-infotech/)
-
----
-
-### Building software products from idea to production.
+Got a product to build or something broken in production? Reach me at **admin@techsonance.co.in**.
