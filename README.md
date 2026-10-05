@@ -82,99 +82,94 @@ With 5+ years of development experience, I've worked across the complete product
 ---
 
 # Selected Work
+## 🚀 Projects
 
-## 🚚 FreightFlow
+### Zion 🇦🇪
 
-**B2B Logistics & Transport Management Platform**
+A Flutter-based community and event platform built for young communities in the UAE.
 
-A production-focused platform designed around real-world logistics workflows.
+* Community-based social features
+* Event discovery and ticketing
+* Multiple ticket tiers and event dates
+* Buyer and seller roles
+* Real-time chat
+* Push notifications
+* Media uploads
+* Wallet and payment flows
+* Offline caching
+* Firebase analytics and crash monitoring
 
-**Key areas:**
+**Stack:** Flutter · Dart · Riverpod · Firebase · REST APIs · Hive · Isar
 
-- Multi-line invoicing
-- Inventory and billing
-- Payment tracking
-- Deductions and reconciliation
-- Balance management
-- Logistics and transport workflows
-- Business reporting
+### Custom RAG Assistant
+
+[Repository](https://github.com/someshwari-rudra/custom-rag-modal)
+
+A document-based assistant that lets users ask questions about uploaded PDFs and get answers with citations and tables.
+
+**Stack:** Next.js · TypeScript · LLM APIs · Vector Search
+
+### AccuNest
+
+Accounting and inventory software with invoice processing and automation.
+
+* OCR and invoice data extraction
+* Product matching
+* Inventory management
+* Reorder logic
+* Accounting workflows
+
+**Stack:** React · Node.js · MongoDB · AI integrations
+
+### FreightFlow
+
+A transport and logistics management platform built around real-world business workflows.
+
+* Shipment and load management
+* LR and POD management
+* Multi-line invoicing
+* Payment tracking
+* Deductions and reconciliation
+* Inventory and balance tracking
 
 **Stack:** React · Node.js · PostgreSQL · REST APIs
 
----
+### InstaSDR.ai
 
-## 🤖 Custom RAG AI Assistant
+A sales development platform for managing leads and outreach.
 
-A document-aware AI assistant capable of answering questions from uploaded knowledge sources.
+* Lead management
+* Email campaigns
+* LinkedIn automation
+* Campaign workflows
+* Lead tracking
 
-**Key areas:**
+**Stack:** React · Node.js · APIs · Database systems
 
-- Retrieval-Augmented Generation
-- PDF/document processing
-- Context-aware responses
-- Source citations
-- Vector search
-- Prompt-injection protection
-- Structured answers with tables and detailed explanations
+### Multi-Supplier Marketplace
 
-**Stack:** Next.js · TypeScript · RAG · LLM APIs · Vector Search
+An e-commerce marketplace where customers can buy from multiple suppliers through a single checkout.
 
-🔗 [View Repository](https://github.com/someshwari-rudra/custom-rag-modal)
-
----
-
-## 🧾 AccuNest
-
-**Accounting & Inventory Platform**
-
-A business management system combining accounting, inventory and intelligent document processing.
-
-**Key areas:**
-
-- Inventory management
-- Reorder logic
-- Accounting workflows
-- Invoice processing
-- OCR/document extraction
-- Product matching
-- AI-assisted data extraction
-
-**Stack:** React · Node.js · MongoDB · AI/OCR
-
----
-
-## 🛒 Multi-Supplier Marketplace
-
-A marketplace architecture where multiple suppliers can sell through a unified checkout experience.
-
-**Key areas:**
-
-- Multi-vendor catalog
-- Product management
-- Unified checkout
-- Supplier-level order handling
-- Stripe payments
-- Split payment workflows
+* Multi-supplier products
+* Unified cart
+* Supplier order management
+* Stripe payments
+* Split payments
 
 **Stack:** Next.js · Node.js · PostgreSQL · Stripe
 
----
+### GreenPraxis
 
-## 🌱 GreenPraxis
+An agriculture and sustainability platform focused on soil and environmental data.
 
-**Agriculture & Sustainability Platform**
+* Soil monitoring
+* Environmental data
+* Dashboards
+* Data visualization
+* Agriculture workflows
 
-A platform focused on environmental and agricultural data.
+**Stack:** React · Node.js · PostgreSQL · Data APIs
 
-**Key areas:**
-
-- Soil monitoring
-- Environmental data
-- Sustainability workflows
-- Data visualization
-- Business dashboards
-
----
 
 # Engineering Experience
 
